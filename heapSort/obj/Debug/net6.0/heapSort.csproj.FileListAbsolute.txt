@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\bin\Debug\net6.0\heapSort.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\bin\Debug\net6.0\heapSort.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\bin\Debug\net6.0\heapSort.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\bin\Debug\net6.0\heapSort.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\bin\Debug\net6.0\heapSort.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\refint\heapSort.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\heapSort.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\heapSort\obj\Debug\net6.0\ref\heapSort.dll

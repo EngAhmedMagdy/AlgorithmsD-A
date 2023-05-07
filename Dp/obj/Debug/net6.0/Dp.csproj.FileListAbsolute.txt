@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\bin\Debug\net6.0\Dp.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\bin\Debug\net6.0\Dp.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\bin\Debug\net6.0\Dp.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\bin\Debug\net6.0\Dp.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\bin\Debug\net6.0\Dp.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\refint\Dp.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\Dp.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Dp\obj\Debug\net6.0\ref\Dp.dll

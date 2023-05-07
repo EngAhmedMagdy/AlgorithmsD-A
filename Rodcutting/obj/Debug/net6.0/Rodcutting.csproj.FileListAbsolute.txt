@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\bin\Debug\net6.0\Rodcutting.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\bin\Debug\net6.0\Rodcutting.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\bin\Debug\net6.0\Rodcutting.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\bin\Debug\net6.0\Rodcutting.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\bin\Debug\net6.0\Rodcutting.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\refint\Rodcutting.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\Rodcutting.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Rodcutting\obj\Debug\net6.0\ref\Rodcutting.dll

@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\bin\Debug\net6.0\Bruteforce.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\bin\Debug\net6.0\Bruteforce.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\bin\Debug\net6.0\Bruteforce.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\bin\Debug\net6.0\Bruteforce.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\bin\Debug\net6.0\Bruteforce.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\refint\Bruteforce.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\Bruteforce.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Bruteforce\obj\Debug\net6.0\ref\Bruteforce.dll

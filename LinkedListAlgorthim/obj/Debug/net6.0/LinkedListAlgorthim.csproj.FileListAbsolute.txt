@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\bin\Debug\net6.0\LinkedListAlgorthim.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\bin\Debug\net6.0\LinkedListAlgorthim.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\bin\Debug\net6.0\LinkedListAlgorthim.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\bin\Debug\net6.0\LinkedListAlgorthim.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\bin\Debug\net6.0\LinkedListAlgorthim.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\refint\LinkedListAlgorthim.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\LinkedListAlgorthim.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\LinkedListAlgorthim\obj\Debug\net6.0\ref\LinkedListAlgorthim.dll

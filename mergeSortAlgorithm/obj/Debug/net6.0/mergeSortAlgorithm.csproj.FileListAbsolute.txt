@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\bin\Debug\net6.0\mergeSortAlgorithm.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\bin\Debug\net6.0\mergeSortAlgorithm.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\bin\Debug\net6.0\mergeSortAlgorithm.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\bin\Debug\net6.0\mergeSortAlgorithm.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\bin\Debug\net6.0\mergeSortAlgorithm.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\refint\mergeSortAlgorithm.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\mergeSortAlgorithm.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\mergeSortAlgorithm\obj\Debug\net6.0\ref\mergeSortAlgorithm.dll

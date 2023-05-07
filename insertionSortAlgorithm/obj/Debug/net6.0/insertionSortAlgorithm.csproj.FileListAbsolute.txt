@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\bin\Debug\net6.0\insertionSortAlgorithm.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\bin\Debug\net6.0\insertionSortAlgorithm.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\bin\Debug\net6.0\insertionSortAlgorithm.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\bin\Debug\net6.0\insertionSortAlgorithm.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\bin\Debug\net6.0\insertionSortAlgorithm.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\refint\insertionSortAlgorithm.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\insertionSortAlgorithm.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\insertionSortAlgorithm\obj\Debug\net6.0\ref\insertionSortAlgorithm.dll

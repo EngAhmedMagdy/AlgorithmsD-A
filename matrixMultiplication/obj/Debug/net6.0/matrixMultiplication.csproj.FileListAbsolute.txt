@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\bin\Debug\net6.0\matrixMultiplication.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\bin\Debug\net6.0\matrixMultiplication.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\bin\Debug\net6.0\matrixMultiplication.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\bin\Debug\net6.0\matrixMultiplication.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\bin\Debug\net6.0\matrixMultiplication.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\refint\matrixMultiplication.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\matrixMultiplication.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\matrixMultiplication\obj\Debug\net6.0\ref\matrixMultiplication.dll

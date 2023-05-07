@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\bin\Debug\net6.0\maxSubarray.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\bin\Debug\net6.0\maxSubarray.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\bin\Debug\net6.0\maxSubarray.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\bin\Debug\net6.0\maxSubarray.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\bin\Debug\net6.0\maxSubarray.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\refint\maxSubarray.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\maxSubarray.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\maxSubarray\obj\Debug\net6.0\ref\maxSubarray.dll
