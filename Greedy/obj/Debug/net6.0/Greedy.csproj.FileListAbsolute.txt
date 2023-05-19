@@ -1,0 +1,15 @@
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.csproj.AssemblyReference.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.AssemblyInfoInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.AssemblyInfo.cs
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.csproj.CoreCompileInputs.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\bin\Debug\net6.0\Greedy.exe
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\bin\Debug\net6.0\Greedy.deps.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\bin\Debug\net6.0\Greedy.runtimeconfig.json
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\bin\Debug\net6.0\Greedy.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\bin\Debug\net6.0\Greedy.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\refint\Greedy.dll
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.pdb
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\Greedy.genruntimeconfig.cache
+C:\Users\ahmed magdy\source\repos\insertionSortAlgorithm\Greedy\obj\Debug\net6.0\ref\Greedy.dll
